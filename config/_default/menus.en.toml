@@ -28,7 +28,8 @@
   weight = 4
 
 [[main]]
-  identifier = "cheat-sheets"
-  name = "cheat-sheets"
-  url = "cheat-sheets"
+  identifier = "showcase"
+  name = "Showcase"
+  url = "showcase"
   weight = 5
+
