@@ -5,6 +5,12 @@ description: Hiking Gallery
 type: gallery
 mode: one-by-one
 description: "hiking gallery"
+tags:
+- hiking
+series:
+- hiking
+categories:
+- hiking
 images:
   - image: puerschling.jpg
     caption: View from Puerschling near Unterammergau
