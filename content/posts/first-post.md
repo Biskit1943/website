@@ -12,4 +12,8 @@ tags:
 - blog
 ---
 
-TODO
+Hey there, you stumbled upon my blog!
+
+I plan to write some articles about some programmatic stuff I'm doing, but most
+of the time I will just post photos from my hiking tours.
+
