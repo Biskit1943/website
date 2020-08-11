@@ -23,11 +23,11 @@ specific the Jenkins Scripted Pipeline, but for my spare time projects I use
 Travis (which is a lot simpler).
 
 In my spare time I do a lot of outdoor activities like hiking, inline skating
-and cycling. I really love the nature an because of that, I love to take photos
-of it and share them with my friends. Some of the photos will be here on this
-site for you to enjoy. When I'm not outdoors, I play games on my PC or with my
-friends (Pen and Paper/Boardgames). If there is enough time available I try to
-do some side projects, which you can find on my GitHub.
+and cycling. I really love the nature and because of that, I love to take
+photos of it and share them with my friends. Some of the photos will be here on
+this site for you to enjoy. When I'm not outdoors, I play games on my PC or
+with my friends (Pen and Paper/Boardgames). If there is enough time available
+I try to do some side projects, which you can find on my GitHub.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/biskit1943/),
 Discord (Biskit1943#1943) and [GitHub](https://github.com/Biskit1943). I do
