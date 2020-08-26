@@ -12,14 +12,24 @@
 
 [[main]]
   identifier = "hiking"
-  name = "Hiking Gallery"
-  url = "hiking_gallery"
+  name = "Gallery"
+  url = "gallery"
   weight = 3
 
 [[main]]
   parent = "hiking"
   name = "Teufelstättkopf"
-  url = "hiking_gallery/teufelstaettkopf"
+  url = "gallery/teufelstaettkopf"
+
+[[main]]
+  parent = "hiking"
+  name = "Partnachklamm"
+  url = "gallery/partnachklamm"
+
+[[main]]
+  parent = "hiking"
+  name = "Tauern"
+  url = "gallery/tauern"
 
 [[main]]
   identifier = "posts"

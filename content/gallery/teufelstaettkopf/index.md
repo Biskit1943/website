@@ -1,7 +1,7 @@
 ---
 title: Teufelstättkopf
-date: 2020-08-01T22:46:16+0200
-description: Teufelstättkopf near Unterammergau (Bavaria)
+date: 2020-07-05T12:00:00+0200
+description: Teufelstättkopf near Unterammergau
 type: gallery
 mode: at-once
 tags:
