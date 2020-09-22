@@ -32,6 +32,16 @@
   url = "gallery/tauern"
 
 [[main]]
+  parent = "hiking"
+  name = "Rinnen"
+  url = "gallery/rinnen"
+
+[[main]]
+  parent = "hiking"
+  name = "Krähe"
+  url = "gallery/krähe"
+
+[[main]]
   identifier = "posts"
   name = "Posts"
   url = "posts"
