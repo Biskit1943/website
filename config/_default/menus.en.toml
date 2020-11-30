@@ -42,6 +42,11 @@
   url = "gallery/krähe"
 
 [[main]]
+  parent = "hiking"
+  name = "Seebensee"
+  url = "gallery/seebensee"
+
+[[main]]
   identifier = "posts"
   name = "Posts"
   url = "posts"
