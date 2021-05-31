@@ -47,6 +47,16 @@
   url = "gallery/seebensee"
 
 [[main]]
+  parent = "hiking"
+  name = "Hennenkopf"
+  url = "gallery/hennenkopf"
+
+[[main]]
+  parent = "hiking"
+  name = "Teufelstättkopf#2"
+  url = "gallery/teufelstaettkopf_2"
+
+[[main]]
   identifier = "posts"
   name = "Posts"
   url = "posts"
