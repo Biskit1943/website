@@ -57,6 +57,11 @@
   url = "gallery/teufelstaettkopf_2"
 
 [[main]]
+  parent = "hiking"
+  name = "Aggenstein"
+  url = "gallery/aggenstein"
+
+[[main]]
   identifier = "posts"
   name = "Posts"
   url = "posts"
