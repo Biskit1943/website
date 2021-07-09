@@ -18,48 +18,23 @@
 
 [[main]]
   parent = "hiking"
-  name = "Teufelstättkopf"
-  url = "gallery/teufelstaettkopf"
+  name = "Hiking in Bavaria"
+  url = "series/hiking-in-bavaria"
 
 [[main]]
   parent = "hiking"
-  name = "Partnachklamm"
-  url = "gallery/partnachklamm"
+  name = "Hiking in Tirol"
+  url = "series/hiking-in-tirol"
 
 [[main]]
   parent = "hiking"
-  name = "Tauern"
-  url = "gallery/tauern"
+  name = "Hiking in South Tirol"
+  url = "series/hiking-in-south-tirol"
 
 [[main]]
   parent = "hiking"
-  name = "Rinnen"
-  url = "gallery/rinnen"
-
-[[main]]
-  parent = "hiking"
-  name = "Krähe"
-  url = "gallery/krähe"
-
-[[main]]
-  parent = "hiking"
-  name = "Seebensee"
-  url = "gallery/seebensee"
-
-[[main]]
-  parent = "hiking"
-  name = "Hennenkopf"
-  url = "gallery/hennenkopf"
-
-[[main]]
-  parent = "hiking"
-  name = "Teufelstättkopf#2"
-  url = "gallery/teufelstaettkopf_2"
-
-[[main]]
-  parent = "hiking"
-  name = "Aggenstein"
-  url = "gallery/aggenstein"
+  name = "Mountain-biking in South Tirol"
+  url = "series/mountain-biking-in-south-tirol"
 
 [[main]]
   identifier = "posts"
