@@ -1,5 +1,5 @@
 ---
-title: Rammelstein
+title: Gafelspitz
 date: 2021-07-03T12:00:00+0200
 description: A beautiful tour in a beautiful country.
 type: gallery
