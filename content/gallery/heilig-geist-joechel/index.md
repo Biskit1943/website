@@ -1,5 +1,5 @@
 ---
-title: Heilig-Geist-Joechel
+title: Heilig-Geist-Jöchel
 date: 2021-06-15T12:00:00+0200
 description: Tour with potential, if it had less snow.
 type: gallery
